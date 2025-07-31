@@ -1,6 +1,6 @@
 ## Hi there 👋
 Im Luis, an aspiring software developer with expereince in C++ and JavaScript! 
-Currently enrolled in school working on myself for a better future. :D
+Currently enrolled in Queens College working on myself for a better future. :D
 <!--
 **LuisL901/LuisL901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
